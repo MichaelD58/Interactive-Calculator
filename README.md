@@ -1,1 +1,1 @@
-# Interactive-Calculator-Haskell-
+# Haskell 1 - Calculator
